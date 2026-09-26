@@ -1,4 +1,6 @@
 **Java Database Capstone - Smart Clinic Management System**
+
+## Admin User Stories
 **As an admin, I want features, so that I can administer/manage the system.**
 
 **As an admin, you can:**
@@ -8,7 +10,7 @@
 4. Delete doctor's profile from the portal
 5. Run a stored procedure in MySQL CLI to get the number of appointments per month and track usage statistics
 
-**Java Database Capstone - Smart Clinic Management System**
+## Patient User Stories
 **As a patient, I want features, so that I can use the system.**
 
 **As a patient, you can:**
@@ -19,7 +21,7 @@
 5. Log in and book an hour-long appointment to consult with a doctor
 6. View my upcoming appointments so that I can prepare accordingly
 
-**Java Database Capstone - Smart Clinic Management System**
+## Doctor User Stories
 **As a doctor, I want features, so that I can manage my availability and appointments.**
 
 **As a doctor, you can:**
